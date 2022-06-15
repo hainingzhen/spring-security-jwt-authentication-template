@@ -1,4 +1,4 @@
-# spring_security_jwt_authentication
+# Spring Security JWT Authentication
 Implementation of JWT authentication with Spring Security
 
 TODO: Update README.md
